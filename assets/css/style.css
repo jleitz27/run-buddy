@@ -187,6 +187,13 @@ section {
     border-color: #39a6b2;
 }
 
+.step-info {
+    flex: 2 70%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
 .step-text {
     flex: 12;
 }
